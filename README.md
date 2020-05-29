@@ -1,2 +1,2 @@
-Work in progress: https://webglgallery.firebaseapp.com/
-Continuing work once after university. 
+<p>Work in progress: https://webglgallery.firebaseapp.com/ </p>
+Continuing work begining june. 
